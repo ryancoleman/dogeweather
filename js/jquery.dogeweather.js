@@ -36,11 +36,11 @@
         if (suchtemp <= -30)
         {
             var sofirst = "winter";
-            var sosecond = "freeze";
-            var sothird = "polar vortex";
-            var sofourth = "ridiculous";
+            var sosecond = "normal day";
+            var sothird = "zi-ma";
+            var sofourth = "brisk";
             var sofifth = "hibernate";
-            var sosixth = "climate change";
+            var sosixth = "not that cold";
             var soseventh = "doom";
         }
         else if (suchtemp > -30 && suchtemp <= -15)
@@ -181,11 +181,11 @@
         }
         else {
         var dogefix = [
-            'wow', 'such weather', 'much doge'
+            'wow', 'takiye weather', 'much mishka'
         ];
         }
         var dogefix = [
-            'so wow', 'such ' + r(),
+            'so wow', 'takiye ' + r(),
             'very ' + r(), 'much ' + r(),
             'so ' + r(),
             'wow'
