@@ -3,7 +3,7 @@ dogeweather / mishkaweather
 
 Takiye Weather
 
-http://dogeweather.com
+mishkaweather
 
 License
 ===========
