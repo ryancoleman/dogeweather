@@ -15,7 +15,7 @@
 			//TESTING 
 			//icon = "01n";
 			//change such doge and sky based on much icon
-			var doge_img = "url(./img/doge/" + icon + ".png)";
+			var doge_img = "url(./img/mishka/" + icon + ".png)";
 			$('.doge-image').css('background-image', doge_img);
 
 			var sky_img = "url(./img/sky-img/" + icon + ".png)";
