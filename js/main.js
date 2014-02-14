@@ -13,7 +13,7 @@
 			$('#weather-icon').text(icon);
 
 			//TESTING 
-			//icon = "01n";
+			//icon = "09n";
 			//change such doge and sky based on much icon
 			var doge_img = "url(./img/mishka/" + icon + ".png)";
 			$('.doge-image').css('background-image', doge_img);
